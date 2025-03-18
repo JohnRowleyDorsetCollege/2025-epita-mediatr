@@ -3,4 +3,4 @@
 GET {{_2025_epita_mediatr_HostAddress}}/weatherforecast/
 Accept: application/json
 
-###
+
